@@ -1,3 +1,18 @@
 var cards = [
-    {src: "assets/1.jpg"}
+    {src: "assets/1.jpg", id: "0", pair: "1"},
+    {src: "assets/2.jpg", id: "1", pair: "2"},
+    {src: "assets/3.jpg", id: "2", pair: "3"},
+    {src: "assets/4.jpg", id: "3", pair: "4"},
+    {src: "assets/5.jpg", id: "4", pair: "5"},
+    {src: "assets/6.jpg", id: "5", pair: "6"},
+    {src: "assets/7.jpg", id: "6", pair: "7"},
+    {src: "assets/8.jpg", id: "7", pair: "8"},
+    {src: "assets/1.jpg", id: "8", pair: "1"},
+    {src: "assets/2.jpg", id: "9", pair: "2"},
+    {src: "assets/3.jpg", id: "10", pair: "3"},
+    {src: "assets/4.jpg", id: "11", pair: "4"},
+    {src: "assets/5.jpg", id: "12", pair: "5"},
+    {src: "assets/6.jpg", id: "13", pair: "6"},
+    {src: "assets/7.jpg", id: "14", pair: "7"},
+    {src: "assets/8.jpg", id: "15", pair: "8"},
 ]

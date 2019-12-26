@@ -1,0 +1,26 @@
+.grid{
+    width: 820px;
+    margin: auto;
+}
+
+.image-container{
+    display: inline-block;
+    background-image: url('./assets/placeholder.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    user-select: none;
+    margin: 8px;
+    width: calc(25% - 16px);
+    height: calc(25% - 16px);
+}
+
+.image-container img{
+    width: 100%;
+    height: 100%;
+    visibility: hidden;
+}
+
+.image-container.selected img{
+    visibility: visible;
+}
